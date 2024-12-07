@@ -54,7 +54,7 @@
 
 
 ## Project Demo:
-https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4
+[Click to view video](https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4)
 
 <p align="right">
   <a href="#top">
