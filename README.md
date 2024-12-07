@@ -40,9 +40,11 @@
 7. View Records
 8. About project
 
-<div align="right">
+<p align="center">
+  <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
-</div>
+  </a>
+</p>
 
 ### Important JAR links:
 
@@ -57,7 +59,6 @@
 https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4
 <p align="center">
   <a href="#top">
-	  <b><a href="#">↥ back to top</a></b>
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
   </a>
 </p>
