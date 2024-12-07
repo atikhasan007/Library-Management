@@ -94,7 +94,7 @@
 
 ### Account Management Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6a0ab8f1-45e6-403c-9964-2d6b5eefc40a.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6a0ab8f1-45e6-403c-9964-2d6b5eefc40a.jpg" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
