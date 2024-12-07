@@ -31,6 +31,7 @@
 
 
 ## Available Modules:
+```
 1. Login/ Logout Module
 2. Account Management
 3. Manage Books
@@ -39,6 +40,7 @@
 6. Return Book
 7. View Records
 8. About project
+```
 
 <p align="right">
   <a href="#top">
