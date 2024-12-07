@@ -79,7 +79,9 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 
 
 ### Dashboard Page:
-![image](https://user-images.githubusercontent.com/70682152/187031861-42257899-2330-4b27-a118-8edb5e1afa0f.png)
+<div align="center">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6099029e-e62b-4b35-b004-ccb0cc235bb5.jpg" width="500" height="300">
+</div>
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
@@ -87,7 +89,9 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 </p>
 
 ### Account Management Page:
-![image](https://user-images.githubusercontent.com/70682152/187031895-48d333de-5fda-4988-bc04-4c84c1a3edf2.png)
+<div align="center">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6a0ab8f1-45e6-403c-9964-2d6b5eefc40a.jpg" width="500" height="300">
+</div>
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
@@ -95,7 +99,9 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 </p>
 
 ### Manage Books Page:
-![image](https://user-images.githubusercontent.com/70682152/187031911-ffb69ae7-b6a9-4404-a0a2-8a6e996b1c81.png)
+<div align="center">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/4c863da6-9dd2-4136-99eb-c8827d82da2b.jpg" width="500" height="300">
+</div>
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
@@ -103,7 +109,9 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 </p>
 
 ### Manage Students Page:
-![image](https://user-images.githubusercontent.com/70682152/187031936-eca77f5c-6a39-4bfd-9532-83c43c7779ae.png)
+<div align="center">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6061b606-b9c1-44ef-8411-fdfd72a80a4f.jpg" width="500" height="300">
+</div>
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
@@ -122,7 +130,9 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 </p>
 
 ### Return Book Page:
-![image](https://user-images.githubusercontent.com/70682152/187031997-19c9d22f-dd84-4d70-b669-f226d143362f.png)
+<div align="center">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/4c863da6-9dd2-4136-99eb-c8827d82da2b.jpg" width="500" height="300">
+</div>
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
@@ -131,7 +141,9 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 
 
 ### View All Records Page:
-![image](https://user-images.githubusercontent.com/70682152/187032018-c9f94e2f-29c3-47a4-a6e3-3f516ee7474c.png)
+<div align="center">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/4c863da6-9dd2-4136-99eb-c8827d82da2b.jpg" width="500" height="300">
+</div>
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
@@ -139,8 +151,9 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 </p>
 
 ### About page:
-
-![image](https://user-images.githubusercontent.com/70682152/187032046-18ea97b4-f892-42c0-a01f-c39176fd6dd4.png)
+<div align="center">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/acf3bb8d-e8a7-40c3-ad1f-304c32e8d069.jpg" width="500" height="300">
+</div>
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
