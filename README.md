@@ -104,7 +104,7 @@
 
 ### Manage Books Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/d13682d4-822b-4070-821b-274ab852b2c7.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/2054c8a4-192e-4c43-85ed-6ba59faad3be.jpg" width="500" height="300">
 </div>
 <p align="right">
   <a href="#top">
