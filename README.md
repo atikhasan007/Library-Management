@@ -54,9 +54,13 @@
 
 
 ## Project Demo:
+<div align="center">
+  <video width="560" height="315" controls>
+    <source src="https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-
-https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
