@@ -68,12 +68,15 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 # User Interface Screenshots:
 
 ### Login Page:
-<img src = "https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png" width = "500" height = "300">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png" width="500" height="300">
+</div>
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
   </a>
 </p>
+
 
 ### Dashboard Page:
 ![image](https://user-images.githubusercontent.com/70682152/187031861-42257899-2330-4b27-a118-8edb5e1afa0f.png)
