@@ -1,6 +1,6 @@
 <h2 align="center">Library Management System Software Project </h2> 
 
-- ### Tech Stack used:
+- ### Tools Stack:
 	<center>
 		<table>
 			<tbody>
