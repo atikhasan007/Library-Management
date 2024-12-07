@@ -64,12 +64,10 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 # User Interface Screenshots:
 
 ### Login Page:
-![image](https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png)
+<img src = "https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png" width = "500" height = "300">
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
-
-
 
 ### Dashboard Page:
 ![image](https://user-images.githubusercontent.com/70682152/187031861-42257899-2330-4b27-a118-8edb5e1afa0f.png)
