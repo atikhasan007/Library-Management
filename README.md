@@ -131,7 +131,7 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 
 ### Return Book Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/4c863da6-9dd2-4136-99eb-c8827d82da2b.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/e5da69be-4c2b-438b-a0e1-8ad3a2015fd6.jpg" width="500" height="300">
 </div>
 <p align="right">
   <a href="#top">
@@ -142,7 +142,7 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 
 ### View All Records Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/4c863da6-9dd2-4136-99eb-c8827d82da2b.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/d455a8e4-1760-4d72-85c8-fd3dbcbf4769.jpg" width="500" height="300">
 </div>
 <p align="right">
   <a href="#top">
@@ -160,5 +160,3 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
   </a>
 </p>
 
-
-# Software project
