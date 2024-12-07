@@ -49,7 +49,6 @@
 </p>
 
 ### Important JAR links:
-
 - [Download all Required JAR files](https://t.me/eagle_programming/13)
 
 
