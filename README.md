@@ -55,9 +55,12 @@
 
 
 https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4
-<div align="right">
-    <b><a href = "https://github.com/atikhasan007/databaseproject/tree/main">↥ back to top</a></b>
-</div>
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%A5-blue" alt="Back to Top">
+  </a>
+</p>
+
 
 
 # User Interface Screenshots:
