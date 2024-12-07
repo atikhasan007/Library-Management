@@ -54,7 +54,12 @@
 
 
 ## Project Demo:
-[Click to view video](https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4)
+<div align="center">
+  <a href="https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4">
+    <img src="https://via.placeholder.com/560x315.png?text=Click+to+Play+Video" alt="Video Thumbnail" width="560" height="315">
+  </a>
+</div>
+
 
 <p align="right">
   <a href="#top">
