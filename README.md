@@ -1,4 +1,4 @@
-<h2 align="center">Library Management System</h2> 
+<h2 align="center">Library Management System Software Project </h2> 
 
 - ### Tech Stack used:
 	<center>
@@ -73,7 +73,7 @@
 
 ### Login Page:
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png" width="500" height="300">
+  <img src="https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
@@ -84,7 +84,7 @@
 
 ### Dashboard Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6099029e-e62b-4b35-b004-ccb0cc235bb5.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6099029e-e62b-4b35-b004-ccb0cc235bb5.jpg" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
@@ -104,7 +104,7 @@
 
 ### Manage Books Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/2054c8a4-192e-4c43-85ed-6ba59faad3be.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/2054c8a4-192e-4c43-85ed-6ba59faad3be.jpg" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
@@ -114,7 +114,7 @@
 
 ### Manage Students Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6061b606-b9c1-44ef-8411-fdfd72a80a4f.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/6061b606-b9c1-44ef-8411-fdfd72a80a4f.jpg" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
@@ -125,7 +125,7 @@
 
 ### Issue Book Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/00d97431-cc26-44d5-8977-60661cbea2bb.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/00d97431-cc26-44d5-8977-60661cbea2bb.jpg" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
@@ -135,7 +135,7 @@
 
 ### Return Book Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/e5da69be-4c2b-438b-a0e1-8ad3a2015fd6.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/e5da69be-4c2b-438b-a0e1-8ad3a2015fd6.jpg" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
@@ -146,7 +146,7 @@
 
 ### View All Records Page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/d455a8e4-1760-4d72-85c8-fd3dbcbf4769.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/d455a8e4-1760-4d72-85c8-fd3dbcbf4769.jpg" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
@@ -156,7 +156,7 @@
 
 ### About page:
 <div align="center">
-  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/acf3bb8d-e8a7-40c3-ad1f-304c32e8d069.jpg" width="500" height="300">
+  <img src="https://github.com/atikhasan007/Library-Management/blob/main/Image_all/acf3bb8d-e8a7-40c3-ad1f-304c32e8d069.jpg" width="560" height="315">
 </div>
 <p align="right">
   <a href="#top">
