@@ -5,7 +5,7 @@ public class Libraries
 {
   
     // Main driver method
-    public static void main(String[] args)
+      public static void main(String[] args)
     {
         try (// Creating object of Scanner class
                 // to take input from user
@@ -39,18 +39,20 @@ public class Libraries
                 switch (choice) 
                 {
   
-                    // Case
+                    // Case 1
                 case 1:
                     book b = new book();
                     ob.addBook(b);
+
+                    
                     break;
   
-                    // Case
+                    // Case 2
                 case 2:
                     ob.upgradeBooksQty();
                     break;
   
-                // Case
+                // Case 3
                 case 3:
   
                     System.out.println(
